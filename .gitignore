@@ -6,3 +6,6 @@ tmp/*
 !tmp/ .gitkeep
 
 
+/yarn-error.log
+
+/package-lock.json
